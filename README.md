@@ -17,7 +17,7 @@ Or:
 
 #### Installation
 ```
-git clone 
+git clone https://github.com/Mozler6776/OnePunch_v1.git
 ```
 
 ```
